@@ -1,0 +1,54 @@
+{
+	"basics":{
+	"name":"geddam chinni",
+    "email":"geddamchinni@gmail.com",
+	"mobile":"8765495370" 
+},
+"carrer":{
+	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+"education":[
+	{
+	"degree":"b.tech(c.s.e)",
+	"institute":"avanthi",
+	"yearofpassing":["2015-2019"],
+	"percentage":["77%"]
+	},
+	{
+	"degree":"intermediate/diploma",
+	"institute":"vivecanandha junior college",
+	"yearofpassing":["2013-2015"],
+	"percentage":["81%"]
+	},
+	{
+    "degree":"s.s.c",
+	"institute":"krupakamal high school",
+	"yearofpassing":["2012-2013"],
+	"percentage":["87%"]
+}
+
+],
+"skills":[
+{
+	"title":"Programming languages",
+	"info":["c","c++","java","python"]
+},
+	{
+	 "title":"Database",
+	"info":["mysql","mongodb"]
+},
+{
+	"title":"Webtechnologies",
+	"info":["html5","css3","javascript"]
+},
+{
+	"title":"Libraries and Frameworks",
+	"info":["ionic","angular",".net"]
+},
+{
+	"title":"Operating systems",
+	"info":["linux","windows","dos"]
+
+}
+]
+}

@@ -1,0 +1,122 @@
+.flexParent{
+		display:flex;
+		flex-direction:column;
+		
+		justify-content:center;
+	}
+	
+	.child1
+	{
+		width:30%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add
+		
+	}
+	.child2
+	{
+		width:70%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add
+		
+	}
+	img{
+		width:70%;
+		
+		display:block;
+		margin-left:auto;
+		border-radius:50%;
+		p{
+			font-size: 70;
+		}
+	}
+	@media only screen and (min-width:320px) and (max-width:480px){
+
+	.flexParent{
+		display:flex;
+		flex-direction:row;
+		
+		justify-content:center;
+	}
+	
+	.child1
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+	    background-color: cyan;
+		
+	}
+		
+	.child2
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+		background-color: blue;
+	}
+
+	}
+	@media only screen and (min-width:481px) and (max-width:720px){
+
+	.flexParent{
+		display:flex;
+		flex-direction:row;
+		
+		justify-content:center;
+	}
+	
+	.child1
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+	    background-color: pink;
+		
+	}
+		
+	.child2
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+		background-color: green;
+	}
+}
+@media only screen and (min-width:721px) and (max-width:1024px){
+
+	.flexParent{
+		display:flex;
+		flex-direction:row;
+		
+		justify-content:center;
+	}
+	
+	.child1
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+	    background-color: red;
+		
+	}
+		
+	.child2
+	{
+		width:100%;
+		margin:2%;
+		padding: 2%;
+		border: 2px solid #add;
+		background-color: yellow;
+	}
+
+	
+	
+
+}
